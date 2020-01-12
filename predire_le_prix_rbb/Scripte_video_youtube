@@ -1,0 +1,5 @@
+On recupere le dataset sur le site:
+http://insideairbnb.com/get-the-data.html
+faire une recherche pour aller a la liste de paris, on a choisi paris listings.csv
+
+utiliser openoffice pour visualise le dataset lirer les colones et tout, signaler le type d'encodage ideal pour chaque colone (One hot, ..)
